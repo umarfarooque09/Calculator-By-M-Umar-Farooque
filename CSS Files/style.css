@@ -60,9 +60,7 @@ input:focus {
 button {
     border: none;
     width: 22%;
-    /* auto fits 4 buttons */
     aspect-ratio: 1/1;
-    /* keeps perfect circle on all screens */
     border-radius: 50%;
     background: transparent;
     color: #ffffff;
